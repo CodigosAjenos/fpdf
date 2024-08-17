@@ -1,0 +1,15 @@
+{
+    "name": "jysperu/fpdf",
+    "description": "Based in http://www.fpdf.org/",
+    "keywords": ["fPdf", "fpdf", "PHP PDF", "pdf-generator", "pdf", "PHP FPdf"],
+    "license": "GPL-3.0-or-later",
+    "type": "library",
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "files": [
+            "src/fpdf.php"
+        ]
+    }
+}
